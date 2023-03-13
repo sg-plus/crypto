@@ -1,0 +1,1 @@
+g++ -std=c++11 test_paper.cc Paillier.cc -pthread -o test_paper -lntl -lgmp
